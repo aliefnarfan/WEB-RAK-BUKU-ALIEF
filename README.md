@@ -2,6 +2,8 @@
 
 Selamat datang di repositori **Rak Buku Alief**! Website ini merupakan *Landing Page* modern yang dirancang untuk platform ruang baca, rekomendasi buku, jasa peminjaman buku, dan komunitas literasi. 
 
+Project ini dibuat untuk memenuhi **Tugas Praktikum 3 - Framework CSS (Tailwind CSS)** pada mata kuliah Pemrograman Web / Praktikum Sistem Informasi.
+
 ---
 
 ## 🌟 Fitur & Komponen Utama
@@ -45,34 +47,38 @@ Website ini dibangun sesuai dengan kriteria dan ketentuan struktur *landing page
 │   ├── hujanTereLiye.jpg
 │   ├── laskarpelangi.jpg
 │   ├── lautBercerita.jpg
+│   ├── pareidoliaTereLiye.jpg
 │   ├── perpusBackground.jpg
 │   ├── rdpd.png
 │   └── sisiTergelapSurga.jpg
 ├── index.html               # File utama HTML & Tailwind CSS
 └── README.md                # Dokumentasi proyek
-
-🚀 Cara Menjalankan Proyek Secara Lokal
-Clone Repositori ini:
-
-Bash
-git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
-Masuk ke Direktori Proyek:
-
-Bash
-cd nama-repo-kamu
-Buka File index.html:
-Buka file index.html langsung melalui peramban web (browser) pilihanmu atau gunakan ekstensi Live Server di Visual Studio Code.
-
-👤 Penulis / Pengembang
-Nama: MUH. ALIEF NUR AFANNI ARFAN
-
-Program Studi: S1 Sistem Informasi
-
-Universitas: Universitas Hasanuddin
-
+```
 
 ---
 
-### Tips sebelum di-push ke GitHub:
-1. Ganti `username-kamu` dan `nama-repo-kamu` pada bagian **Cara Menjalankan Proyek Secara Lokal** dengan tautan repositori GitHub milikmu yang sebenarnya.
-2. Pastikan letak berkas `README.md` berada di folder paling luar (*root directory*) proyekmu.
+## 🚀 Cara Menjalankan Proyek Secara Lokal
+
+1. **Clone Repositori ini**:
+   ```bash
+   git clone [https://github.com/aliefnurafanni/rak-buku-alief.git](https://github.com/aliefnurafanni/rak-buku-alief.git)
+   ```
+
+2. **Masuk ke Direktori Proyek**:
+   ```bash
+   cd rak-buku-alief
+   ```
+
+3. **Buka File `index.html`**:
+   Buka file `index.html` langsung melalui peramban web (*browser*) pilihanmu atau gunakan ekstensi **Live Server** di Visual Studio Code.
+
+---
+
+## 👤 Penulis / Pengembang
+
+* **Nama**: MUH. ALIEF NUR AFANNI ARFAN
+* **Program Studi**: S1 Sistem Informasi
+* **Universitas**: Universitas Hasanuddin
+
+---
+*Dibuat untuk keperluan Tugas Praktikum Pemrograman Web / CSS Framework.*
