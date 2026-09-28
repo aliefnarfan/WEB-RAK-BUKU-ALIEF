@@ -45,7 +45,6 @@ Website ini dibangun sesuai dengan kriteria dan ketentuan struktur *landing page
 │   ├── hujanTereLiye.jpg
 │   ├── laskarpelangi.jpg
 │   ├── lautBercerita.jpg
-│   ├── pareidoliaTereLiye.jpg
 │   ├── perpusBackground.jpg
 │   ├── rdpd.png
 │   └── sisiTergelapSurga.jpg
