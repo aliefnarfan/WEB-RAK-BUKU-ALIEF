@@ -2,8 +2,6 @@
 
 Selamat datang di repositori **Rak Buku Alief**! Website ini merupakan *Landing Page* modern yang dirancang untuk platform ruang baca, rekomendasi buku, jasa peminjaman buku, dan komunitas literasi. 
 
-Project ini dibuat untuk memenuhi **Tugas Praktikum 3 - Framework CSS (Tailwind CSS)** pada mata kuliah Pemrograman Web / Praktikum Sistem Informasi.
-
 ---
 
 ## 🌟 Fitur & Komponen Utama
@@ -79,6 +77,3 @@ Website ini dibangun sesuai dengan kriteria dan ketentuan struktur *landing page
 * **Nama**: MUH. ALIEF NUR AFANNI ARFAN
 * **Program Studi**: S1 Sistem Informasi
 * **Universitas**: Universitas Hasanuddin
-
----
-*Dibuat untuk keperluan Tugas Praktikum Pemrograman Web / CSS Framework.*
