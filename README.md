@@ -2,14 +2,11 @@
 
 Selamat datang di repositori **Rak Buku Alief**! Website ini merupakan *Landing Page* modern yang dirancang untuk platform ruang baca, rekomendasi buku, jasa peminjaman buku, dan komunitas literasi. 
 
-<<<<<<< HEAD
 Project ini dibuat untuk memenuhi **Tugas Praktikum 3 - Framework CSS (Tailwind CSS)** pada mata kuliah Pemrograman Web / Praktikum Sistem Informasi.
 
 🚀 **Live Demo / Website:**  
 👉 [**https://aliefnarfan.github.io/WEB-RAK-BUKU-ALIEF/**](https://aliefnarfan.github.io/WEB-RAK-BUKU-ALIEF/)
 
-=======
->>>>>>> aa528c65bd0e5b266fcb644498128e9c0d76c90a
 ---
 
 ## 🌟 Fitur & Komponen Utama
