@@ -4,6 +4,9 @@ Selamat datang di repositori **Rak Buku Alief**! Website ini merupakan *Landing 
 
 Project ini dibuat untuk memenuhi **Tugas Praktikum 3 - Framework CSS (Tailwind CSS)** pada mata kuliah Pemrograman Web / Praktikum Sistem Informasi.
 
+🚀 **Live Demo / Website:**  
+👉 [**https://aliefnarfan.github.io/WEB-RAK-BUKU-ALIEF/**](https://aliefnarfan.github.io/WEB-RAK-BUKU-ALIEF/)
+
 ---
 
 ## 🌟 Fitur & Komponen Utama
@@ -61,12 +64,12 @@ Website ini dibangun sesuai dengan kriteria dan ketentuan struktur *landing page
 
 1. **Clone Repositori ini**:
    ```bash
-   git clone [https://github.com/aliefnurafanni/rak-buku-alief.git](https://github.com/aliefnurafanni/rak-buku-alief.git)
+   git clone https://github.com/aliefnarfan/WEB-RAK-BUKU-ALIEF.git
    ```
 
 2. **Masuk ke Direktori Proyek**:
    ```bash
-   cd rak-buku-alief
+   cd WEB-RAK-BUKU-ALIEF
    ```
 
 3. **Buka File `index.html`**:
